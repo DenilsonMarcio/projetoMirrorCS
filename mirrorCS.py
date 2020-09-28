@@ -56,8 +56,6 @@ else:
 	print('		mirrorrobottrader@gmail.com / danilonilo75@hotmail.com')
 	print('	INSTAGRAM')
 	print('		@dgcatalogacoes / @mirrorrobot')
-	print('	WHATSAPP')
-	print('		(12) 99100-5429 / (12) 92000-7124\n\n')
 	print('-----------------------------------------------------------------------')
 	time.sleep(30)
 	sys.exit()
