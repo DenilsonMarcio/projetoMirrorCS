@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+MirrorCS/
 .Python
 build/
 develop-eggs/
